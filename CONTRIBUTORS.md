@@ -15,6 +15,12 @@ I work on iOS Development majorly, with two apps on the store. Data Analysis fas
 - [Github](https://github.com/dbitwy)
 
 =======
+# Shaun 
+
+GoPro lover and rider
+
+- [GitHub](https://github.com/kickass09)
+
 # Harsh Trivedi
 
 I’m a student and a tech lover currently living in Kanpur, Uttar Pradesh, India. I like designing, coding, blogging, tweaking some softwares imagining a lot of alien stuff!
